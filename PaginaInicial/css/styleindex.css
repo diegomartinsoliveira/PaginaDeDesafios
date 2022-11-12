@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+body {
+	margin: 0 auto;
+	background-image: url(../imgs/bk2.jpg);
+    width: 100%;
+}
+
+
+nav img {
+	float: left;
+	height: 150px;
+	width: 150px;
+	position: absolute; top : -7%; left : 1%;
+}
+
+footer{
+    background-color: #000000;
+	color: #fff;
+	text-align: center;
+	bottom: 0;
+    position: fixed;
+    width: 100%;
+
+}
+
+.sidebar {
+	
+	width: 20%;
+	border: 3px solid #ddd;
+	height: 600px;
+	
+}
+
+.conteudo {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+h1 {
+	text-shadow: 2px 4px 0.05em #fff;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
+}
+
+h2 {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding: 6px;
+	text-shadow: 2px 3px 0.05em #333;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	
+}
+
+nav{
+	width: 100%;
+	height: 55px;
+}
+
+section {
+	width: 100%;
+	height: 500px;
+	padding: 5%;
+}
+
+.minicard {
+	margin-top: 5%;
+}

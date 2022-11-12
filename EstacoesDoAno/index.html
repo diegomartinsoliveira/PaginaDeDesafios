@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Estações do Ano</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <script src="js/site.js"></script>
+</head>
+<body> 
+     <div class="container-fluid">
+        <nav>
+            <h3>Estações do Ano - Faculdade Senai - ADS - Diego Martins</h3>
+        </nav>
+        
+        <div class="conteudo">
+            <div class="text">
+                <p>Digite o nome ou número referente ao mês do ano e o sistema irá informá-lo a estação do ano</p>
+                <div class="input">
+                        <input type="text" class="num" id="num" placeholder="Digite um número..">
+                
+                        <button type="submit" class="btn" onclick="mudaPosicao()">Pesquisar</button>  
+                    </div>
+                    <main>
+                            <div class="estacoes">
+                                    <img src="img/inverno.jpg" alt="Inverno" id="inverno" style="display: none;">
+                                    <img src="img/outono.jpg" alt="Outono" id="outono" style="display: none;">
+                                    <img src="img/primavera.jpg" alt="Primavera" id="primavera" style="display: none;"> 
+                                    <img src="img/verao.jpg" alt="Verao" id="verao" style="display: none;">             
+                                </div>
+                    </main> 
+                    <div id="opcao"></div>
+            </div>
+        </div>
+    </div>
+</div>        
+</body> 
+</html>

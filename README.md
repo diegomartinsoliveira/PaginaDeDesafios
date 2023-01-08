@@ -1,5 +1,5 @@
 # Página de Desafios
-Elaborei uma página com 4 desafios de front end que foram lançados pelos professores da faculdade, feitos em HTML, CSS, JS, Bootstrap
+Elaborei uma página com 4 desafios de front end que foram lançados pelos professores da faculdade, feitos em HTML, CSS, Javascript, Bootstrap
 
 - 1º desafio é o Par ou Impar, nele é necessário digitar um número e o sistema irá informá-lo se o número digitado é PAR ou IMPAR!
 

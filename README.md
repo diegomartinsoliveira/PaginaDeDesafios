@@ -11,3 +11,6 @@ Elaborei uma página com 4 desafios de front end que foram lançados pelos profe
 
 # Página Inicial
 ![paginadesafios](https://github.com/diegomartinsoliveira/PaginaDeDesafios/assets/103466130/31ecaac3-e5a1-4c6c-8334-ae308dd64c24)
+
+# Exemplo do desafio N° 1
+![parouimpar](https://github.com/diegomartinsoliveira/PaginaDeDesafios/assets/103466130/60a77732-efd9-4ec6-b43e-25e5ce802941)
